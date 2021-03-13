@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>the aim of this is to test is to check how it work katalon in the manuel mode</description>
+   <name>ManuelMode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8c2bdfca-0a56-4969-afb4-1976851d4961</testCaseGuid>
+</TestCaseEntity>

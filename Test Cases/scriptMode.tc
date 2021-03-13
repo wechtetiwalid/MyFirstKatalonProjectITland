@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The aim of this case is to check how it work the skript mode</description>
+   <name>scriptMode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd276a4c-0357-493a-b4b5-9d0054d63045</testCaseGuid>
+</TestCaseEntity>

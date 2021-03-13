@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>the aim of theis test is to check the authentification of my application</description>
+   <name>checkConection</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>00497255-6ece-43e7-b20c-5e49392b71ff</testCaseGuid>
+</TestCaseEntity>
